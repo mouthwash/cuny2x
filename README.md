@@ -1,2 +1,3 @@
 # cuny2x
-Cuny2x Repository
+### Sample Projects
+[Dynamic Pallete](https://github.com/mouthwash/Dynamic-Pallette)
